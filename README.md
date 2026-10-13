@@ -106,7 +106,7 @@ That link requests the permissions below. If you build your own invite, grant at
 
 ```bash
 git clone https://github.com/Just9OO/Discord-Ticket-Bot
-cd ticket-bot
+cd 900-ticket-bot
 npm install
 cp .env.example .env      # then edit .env and paste your token
 npm start
